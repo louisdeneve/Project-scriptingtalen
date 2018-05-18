@@ -1,0 +1,16 @@
+.bolletje{
+    width: 5vw!important;
+    height: 5vw!important;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+.spelbord table{
+    display: inline-table;
+}
+
+
+.spelbord {
+    margin: auto;
+    display: table;
+}
